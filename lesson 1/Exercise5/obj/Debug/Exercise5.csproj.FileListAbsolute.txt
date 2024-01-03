@@ -1,0 +1,11 @@
+c:\users\pc\documents\visual studio 2015\Projects\Exercise5\bin\Debug\Exercise5.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\Exercise5\bin\Debug\Exercise5.exe
+c:\users\pc\documents\visual studio 2015\Projects\Exercise5\bin\Debug\Exercise5.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Exercise5\obj\Debug\Exercise5.exe
+c:\users\pc\documents\visual studio 2015\Projects\Exercise5\obj\Debug\Exercise5.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\LESSION 1\Exercise5\bin\Debug\Exercise5.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\LESSION 1\Exercise5\obj\Debug\Exercise5.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\LESSION 1\Exercise5\obj\Debug\Exercise5.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\LESSON 1\Exercise5\bin\Debug\Exercise5.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\LESSON 1\Exercise5\obj\Debug\Exercise5.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\LESSON 1\Exercise5\obj\Debug\Exercise5.pdb

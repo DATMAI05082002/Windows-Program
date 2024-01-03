@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\LESSON 2\Exercise 4\Exercise 4\bin\Debug\Exercise 4.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\LESSON 2\Exercise 4\Exercise 4\bin\Debug\Exercise 4.exe
+c:\users\pc\documents\visual studio 2015\Projects\LESSON 2\Exercise 4\Exercise 4\bin\Debug\Exercise 4.pdb
+c:\users\pc\documents\visual studio 2015\Projects\LESSON 2\Exercise 4\Exercise 4\obj\Debug\Exercise 4.exe
+c:\users\pc\documents\visual studio 2015\Projects\LESSON 2\Exercise 4\Exercise 4\obj\Debug\Exercise 4.pdb

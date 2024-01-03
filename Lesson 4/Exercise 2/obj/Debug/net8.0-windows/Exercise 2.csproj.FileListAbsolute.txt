@@ -1,0 +1,20 @@
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\Exercise 2_MarkupCompile.cache
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\Exercise 2_MarkupCompile.lref
+C:\Users\khung\source\repos\Lession 4\Exercise 2\bin\Debug\net8.0-windows\Exercise 2.exe
+C:\Users\khung\source\repos\Lession 4\Exercise 2\bin\Debug\net8.0-windows\Exercise 2.deps.json
+C:\Users\khung\source\repos\Lession 4\Exercise 2\bin\Debug\net8.0-windows\Exercise 2.runtimeconfig.json
+C:\Users\khung\source\repos\Lession 4\Exercise 2\bin\Debug\net8.0-windows\Exercise 2.dll
+C:\Users\khung\source\repos\Lession 4\Exercise 2\bin\Debug\net8.0-windows\Exercise 2.pdb
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\Exercise 2.g.resources
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\Exercise 2.AssemblyInfoInputs.cache
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\Exercise 2.AssemblyInfo.cs
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\Exercise 2.dll
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\refint\Exercise 2.dll
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\Exercise 2.pdb
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\Exercise 2.genruntimeconfig.cache
+C:\Users\khung\source\repos\Lession 4\Exercise 2\obj\Debug\net8.0-windows\ref\Exercise 2.dll

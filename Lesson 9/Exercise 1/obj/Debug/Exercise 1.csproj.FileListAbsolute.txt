@@ -1,0 +1,15 @@
+C:\Users\khung\source\repos\Lession9\Exercise 1\bin\Debug\Exercise 1.exe.config
+C:\Users\khung\source\repos\Lession9\Exercise 1\bin\Debug\Exercise 1.exe
+C:\Users\khung\source\repos\Lession9\Exercise 1\bin\Debug\Exercise 1.pdb
+C:\Users\khung\source\repos\Lession9\Exercise 1\bin\Debug\EntityFramework.dll
+C:\Users\khung\source\repos\Lession9\Exercise 1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khung\source\repos\Lession9\Exercise 1\bin\Debug\EntityFramework.xml
+C:\Users\khung\source\repos\Lession9\Exercise 1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khung\source\repos\Lession9\Exercise 1\obj\Debug\Exercise 1.csproj.AssemblyReference.cache
+C:\Users\khung\source\repos\Lession9\Exercise 1\obj\Debug\Exercise_1.Form1.resources
+C:\Users\khung\source\repos\Lession9\Exercise 1\obj\Debug\Exercise_1.Properties.Resources.resources
+C:\Users\khung\source\repos\Lession9\Exercise 1\obj\Debug\Exercise 1.csproj.GenerateResource.cache
+C:\Users\khung\source\repos\Lession9\Exercise 1\obj\Debug\Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\khung\source\repos\Lession9\Exercise 1\obj\Debug\Exercise 1.csproj.CopyComplete
+C:\Users\khung\source\repos\Lession9\Exercise 1\obj\Debug\Exercise 1.exe
+C:\Users\khung\source\repos\Lession9\Exercise 1\obj\Debug\Exercise 1.pdb

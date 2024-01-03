@@ -1,0 +1,14 @@
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\bin\Debug\net8.0\Exercise 7 b.exe
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\bin\Debug\net8.0\Exercise 7 b.deps.json
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\bin\Debug\net8.0\Exercise 7 b.runtimeconfig.json
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\bin\Debug\net8.0\Exercise 7 b.dll
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\bin\Debug\net8.0\Exercise 7 b.pdb
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\obj\Debug\net8.0\Exercise 7 b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\obj\Debug\net8.0\Exercise 7 b.AssemblyInfoInputs.cache
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\obj\Debug\net8.0\Exercise 7 b.AssemblyInfo.cs
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\obj\Debug\net8.0\Exercise 7 b.csproj.CoreCompileInputs.cache
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\obj\Debug\net8.0\Exercise 7 b.dll
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\obj\Debug\net8.0\refint\Exercise 7 b.dll
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\obj\Debug\net8.0\Exercise 7 b.pdb
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\obj\Debug\net8.0\Exercise 7 b.genruntimeconfig.cache
+C:\Users\khung\source\repos\Lession3\Exercise 7 b\obj\Debug\net8.0\ref\Exercise 7 b.dll
